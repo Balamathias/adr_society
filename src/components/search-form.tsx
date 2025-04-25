@@ -12,7 +12,7 @@ export function SearchForm() {
         <Input
           placeholder="Search by location, property name..."
           className="w-full"
-          prefix={<Search className="w-4 h-4 text-muted-foreground" />}
+          // prefix={<Search className="w-4 h-4 text-muted-foreground" />}
         />
       </div>
       <Select>
